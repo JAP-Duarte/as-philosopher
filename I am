@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Philosophical Writings</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+        }
+        .post {
+            background-color: white;
+            margin: 20px 0;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>My Philosophical Journey</h1>
+        <p>Exploring ideas, one thought at a time</p>
+    </header>
+
+    <main>
+        <section class="post">
+            <h2>About Me</h2>
+            <p>I am a young philosopher passionate about exploring complex ideas and challenging philosophical concepts. This space is where I share my thoughts, essays, and ongoing intellectual explorations.</p>
+        </section>
+
+        <section class="post">
+            <h2>Recent Thoughts</h2>
+            <article>
+                <h3>First Philosophical Reflection</h3>
+                <p>Coming soon... This is where I'll share my initial philosophical musings and insights.</p>
+            </article>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2024 My Philosophical Writings</p>
+    </footer>
+</body>
+</html>
+Last edited hace 6 minutos
